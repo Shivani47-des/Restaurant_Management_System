@@ -1,0 +1,84 @@
+{
+    "tables": [
+        {
+            "id": 1,
+            "capacity": 4,
+            "reserved": true,
+            "reservation_details": {
+                "name": "",
+                "contact": null,
+                "email": null
+            }
+        },
+        {
+            "id": 2,
+            "capacity": 4,
+            "reserved": true,
+            "reservation_details": {
+                "name": "",
+                "contact": "",
+                "email": ";g.gf'"
+            }
+        },
+        {
+            "id": 3,
+            "capacity": 4,
+            "reserved": true,
+            "reservation_details": {
+                "name": "Shivani",
+                "contact": "2345678912",
+                "date": "2025-05-24",
+                "time": "19:00",
+                "party_size": 1
+            }
+        },
+        {
+            "id": 4,
+            "capacity": 4,
+            "reserved": true,
+            "reservation_details": {
+                "name": "Shraddha",
+                "contact": "1234567897",
+                "date": "2025-05-24",
+                "time": "19:00",
+                "party_size": 3
+            }
+        },
+        {
+            "id": 5,
+            "capacity": 4,
+            "reserved": false,
+            "reservation_details": null
+        },
+        {
+            "id": 6,
+            "capacity": 4,
+            "reserved": false,
+            "reservation_details": null
+        },
+        {
+            "id": 7,
+            "capacity": 4,
+            "reserved": false,
+            "reservation_details": null
+        },
+        {
+            "id": 8,
+            "capacity": 4,
+            "reserved": false,
+            "reservation_details": null
+        },
+        {
+            "id": 9,
+            "capacity": 4,
+            "reserved": false,
+            "reservation_details": null
+        },
+        {
+            "id": 10,
+            "capacity": 4,
+            "reserved": false,
+            "reservation_details": null
+        }
+    ]
+}

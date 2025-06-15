@@ -1,0 +1,149 @@
+{
+    "1": {
+        "order_id": 1,
+        "customer_name": "Shivani",
+        "customer_contact": "1234567895",
+        "customer_email": "",
+        "table_number": "1",
+        "items": [
+            {
+                "name": "Pasta",
+                "quantity": 2,
+                "price": 150
+            }
+        ],
+        "subtotal": 300,
+        "gst_percentage": 18,
+        "gst_amount": 54.0,
+        "grand_total": 354.0,
+        "timestamp": "2025-05-24 01:45:18",
+        "status": "Ready"
+    },
+    "2": {
+        "order_id": 2,
+        "customer_name": "",
+        "customer_contact": "",
+        "customer_email": "",
+        "table_number": "1",
+        "items": [
+            {
+                "name": "Tea",
+                "quantity": 3,
+                "price": 30
+            }
+        ],
+        "subtotal": 90,
+        "gst_percentage": 18,
+        "gst_amount": 16.2,
+        "grand_total": 106.2,
+        "timestamp": "2025-05-24 01:51:44",
+        "status": "Placed"
+    },
+    "3": {
+        "customer_name": "Shivani",
+        "customer_contact": "1234567898",
+        "customer_email": "",
+        "table_number": "1",
+        "items": [
+            {
+                "name": "Burger",
+                "quantity": 2,
+                "unit_price": 100
+            }
+        ],
+        "subtotal": 200,
+        "gst": 36,
+        "total": 236,
+        "datetime": "2025-05-24 02:09:31"
+    },
+    "4": {
+        "customer_name": "Shivani",
+        "customer_contact": "2345678912",
+        "customer_email": "shivi@123",
+        "table_number": "3",
+        "order_date": "2025-05-24 03:06:50",
+        "items": [
+            {
+                "name": "Burger",
+                "quantity": 3,
+                "price": 100,
+                "total": "\u20b9300"
+            },
+            {
+                "name": "Pasta",
+                "quantity": 4,
+                "price": 150,
+                "total": "\u20b9600"
+            }
+        ],
+        "subtotal": "\u20b9900",
+        "gst_amount": "\u20b9162.0",
+        "grand_total": "\u20b91062.0"
+    },
+    "5": {
+        "customer_name": "Shivani",
+        "customer_contact": "2345678912",
+        "customer_email": "",
+        "table_number": "3",
+        "order_date": "2025-05-24 03:15:11",
+        "items": [
+            {
+                "name": "Pasta",
+                "quantity": 2,
+                "price": 150,
+                "total": "\u20b9300"
+            },
+            {
+                "name": "Sandwich",
+                "quantity": 3,
+                "price": 80,
+                "total": "\u20b9240"
+            }
+        ],
+        "subtotal": "\u20b9540",
+        "gst_amount": "\u20b997.2",
+        "grand_total": "\u20b9637.2"
+    },
+    "6": {
+        "customer_name": "Shraddha",
+        "customer_contact": "1234567897",
+        "customer_email": "shraddha@123",
+        "table_number": "4",
+        "order_date": "2025-05-24 03:36:41",
+        "items": [
+            {
+                "name": "Pasta",
+                "quantity": 3,
+                "price": 150,
+                "total": "\u20b9450"
+            },
+            {
+                "name": "Sandwich",
+                "quantity": 5,
+                "price": 80,
+                "total": "\u20b9400"
+            }
+        ],
+        "subtotal": "\u20b9850",
+        "gst_amount": "\u20b9153.0",
+        "grand_total": "\u20b91003.0"
+    },
+    "7": {
+        "customer_name": "Shivani",
+        "customer_contact": "2345678912",
+        "customer_email": "",
+        "table_number": "3",
+        "order_date": "2025-05-24 09:36:33",
+        "items": [
+            {
+                "name": "Salad",
+                "quantity": 3,
+                "price": 90,
+                "total": "\u20b9270"
+            }
+        ],
+        "subtotal": "\u20b9270",
+        "gst_amount": "\u20b948.6",
+        "grand_total": "\u20b9318.6"
+    }
+}
