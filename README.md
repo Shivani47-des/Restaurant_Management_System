@@ -12,8 +12,6 @@ A GUI-based Restaurant Management System built using **Python** and **Tkinter**.
 - 💾 Data Storage using JSON (or MySQL)
 - 🎨 Colorful and User-Friendly Interface
 
-## 🚀 Getting Started
-
 ### Requirements
 
 - Python 3.x
